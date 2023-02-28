@@ -1,4 +1,4 @@
-# my_second_machine_learning_bank_churn
+# Anticipating Churns: A Case of Imbalanced Data
 With imbalanced observed data, a search for the best model is conducted. The bank is seeing its customers leave. Wondering if there are patterns to their decision to exit, the bank wishes to anticipate for this trend. When the positive class is the minority in an imbalanced dataset, a model need to be trained for robustness.
 
 Customers of Bank Beta is starting to leave. Their number is decreasing from month to month.
